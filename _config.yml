@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		       "WHERE MANY WORLDS FIT"
+title:		       "Where Many Worlds Fit"
 description:	       "a podcast about international movements for radical autonomy"
 #author:                "Alex Urban"
 
