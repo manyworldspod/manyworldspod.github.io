@@ -7,6 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
+- {name: 'episodes',   url: 'episodes'}
 - {name: 'rojava',     url: 'rojava'}
 - {name: 'zapatistas', url: 'zapatistas'}
 - {name: 'about',      url: 'about'}
