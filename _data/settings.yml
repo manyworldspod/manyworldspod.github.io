@@ -23,8 +23,8 @@ pagination:
   next_page: 'newer'
   previous_page: 'older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'steal this page!'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'you may also appreciate...'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'written on'

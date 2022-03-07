@@ -17,7 +17,7 @@
 }
 @media (max-width: $container-width) {
   .post-content {
-    width: 60vw;
+    width: 80vw;
     display: block;
     margin: 10px auto 10px;
   }
@@ -25,7 +25,7 @@
     align: middle;
     margin: 5px auto 25px;
     display: block;
-    max-width: 60vw;
+    max-width: 80vw;
   }
 }
 @media (max-width: $tablet-width) {
@@ -86,7 +86,7 @@
 }
 @media (max-width: $container-width) {
   .related-thumbnail{
-    width: 60vw;
+    width: 80vw;
   }
 }
 @media (max-width: $tablet-width) {
