@@ -7,10 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'rojava',     url: 'rojava'}
+- {name: 'zapatistas', url: 'zapatistas'}
+- {name: 'about',      url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -21,8 +20,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'newer'
+  previous_page: 'older'
 
 sharing_button_prompt: 'Feel free to share!'
 
