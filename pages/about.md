@@ -4,6 +4,10 @@ title: mission
 permalink: /about
 ---
 
+<div class="featured-image">
+  <img src="https://manyworldspod.github.io/assets/img/snail.jpg" alt="a black snail shell with red-orange spiral" title="a black snail shell with red-orange spiral">
+</div>
+
 Where Many Worlds Fit is a podcast covering international movements for radical
 autonomy. Many of these movements are indigenous-led but pluralistic and
 emerged from the surprisingly natural union of long-held cultural tradition
