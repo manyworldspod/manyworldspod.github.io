@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mission
+title: intent
 permalink: /about
 ---
 
