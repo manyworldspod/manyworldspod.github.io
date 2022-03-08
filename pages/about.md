@@ -4,13 +4,9 @@ title: mission
 permalink: /about
 ---
 
-<div class="featured-image">
-  <img src="https://manyworldspod.github.io/assets/img/snail.jpg" alt="a black snail shell with red-orange spiral" title="a black snail shell with red-orange spiral">
-</div>
-
-Where Many Worlds Fit is a podcast covering international movements for radical
-autonomy. Many of these movements are indigenous-led but pluralistic and
-emerged from the surprisingly natural union of long-held cultural tradition
+*Where Many Worlds Fit* is a podcast covering international movements for
+radical autonomy. Many of these movements are indigenous-led but pluralistic
+and emerged from the surprisingly natural union of long-held cultural tradition
 with anarchist ideas, often amidst devastating civil wars or within the
 territories of failed nation-states and defending themselves from fascists.
 Right now and for the foreseeable future, we are specifically interested in the
@@ -20,9 +16,15 @@ state of Chiapas (the Zapatistas of the Lacondan Jungle).
 
 To tell these stories, on this podcast we incorporate four broad approaches.
 
+<div class="featured-image">
+  <img src="https://manyworldspod.github.io/assets/img/snail.jpg" alt="black snail shell with red-orange spiral" title="black snail shell with red-orange spiral">
+</div>
+
 ## styles
 
-### gonzo journalism
+---
+
+### I. gonzo journalism
 
 A threat to freedom anywhere is a threat to freedom everywhere. Indigenous
 struggles for autonomy and self-determination are happening right now in many
@@ -31,7 +33,7 @@ provide some of that help in the form of documentation, education, and
 advocacy. It grows out of the idea that international solidarity is more
 effective when it carries both context and intent.
 
-### sociology
+### II. sociology
 
 Many of the researchers in the West already documenting these movements do so
 from within the academic field of sociology. This podcast (along with many of
@@ -42,7 +44,7 @@ bring to the intellectual commons things that serve the public interest, topics
 with strong relevance at home such as alternative justice systems and
 jiniology.
 
-### oral history
+### III. oral history
 
 Doing this has many uses, and among the most important of them is to actively
 counter state messaging and propaganda. The Turkish and Syrian states have long
@@ -54,16 +56,18 @@ histories are not only compatible with many indigenous traditions – they are
 also a tactic, a kind of Rosetta stone for the rest of us who would stand in
 solidarity with our indigenous compas.
 
-### solarpunk futures
+### IV. solarpunk futures
 
 If you want to sprout a better world, you need an active imagination. What will
 land back look like in your neighborhood? How will our notions of justice be
 realized while we’re also mitigating and adapting to the effects of climate
 change? We occasionally combine speculative fiction with the very real history
 of radical autonomous movements to help foresee how it will play out in our own
-backyard, and how we get there...
+backyard, and how we get there.
 
 ## episode formats
+
+---
 
 Our podcast aims to be collaborative while mixing together a few different
 episode formats. We will most likely release on a sporadic schedule,
@@ -96,9 +100,13 @@ forest in north Wisconsin are more imminently doable on a shoestring budget.
 
 ## music
 
+---
+
 [Yaotl Mictlan](https://yaotlmictlan.bandcamp.com/) are an Aztec folk metal
 group who support struggles from below and to the left. Their productions,
-such as **Entre Lluvias Fuertes** ("**between heavy rains**") in episode 1, are
+such as *Entre Lluvias Fuertes* ("*between heavy rains*") in episode 1, are
 used here with permission.
 
 ## contact us
+
+---
