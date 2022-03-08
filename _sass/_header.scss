@@ -20,9 +20,13 @@
   text-decoration: none;
 }
 .site-title {
+  height: 56px;
   border-radius: 50%;
   overflow: hidden;
-  margin-top: -6px;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-left: 10px;
+  float: left;
 }
 .menu-list {
   line-height: $header-thickness;
@@ -47,6 +51,9 @@
 @media (max-width: $container-width) {
   .menu-list {
     display: none;
+  }
+  .site-title {
+    padding-right: 0.25rem;
   }
   .dropbtn {
     background-color: white;
