@@ -7,10 +7,11 @@ disqus:
 google-ID: ''
 
 menu:
+- {name: 'mission',    url: 'about'}
 - {name: 'episodes',   url: 'episodes'}
+- {name: 'zines',      url: 'zines'}
 - {name: 'rojava',     url: 'rojava'}
 - {name: 'zapatistas', url: 'zapatistas'}
-- {name: 'about',      url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
