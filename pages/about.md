@@ -6,15 +6,15 @@ permalink: /about
 
 *Where Many Worlds Fit* is a podcast covering international movements for
 radical autonomy. Many of these movements are led by indigenous peoples but
-made up of a pluralistic society, and grow out of the surprisingly natural
+consist of a pluralistic society, and grow out of the surprisingly natural
 union of long-held cultural traditions with more modern libertarian thought.
 Often these movements emerge amidst devastating civil wars or within the
-territories of failed nation-states, and defending themselves from fascists.
-We are particularly interested in the Kurdish-led Autonomous Administration of
-North and East Syria (AANES, also known as Rojava) and the Maya-led autonomous
-region of southeast Mexico in the state of Chiapas (the Zapatistas of the
-Lacondan Jungle), but we will broaden our lens as we learn more, actively and
-together.
+territories of failed nation-states, and while defending themselves from
+fascists. We are particularly interested in the Kurdish-led Autonomous
+Administration of North and East Syria (AANES, also known as Rojava) and the
+Maya-led autonomous region of southeast Mexico in the state of Chiapas (the
+Zapatistas of the Lacondan Jungle), but we will broaden our lens as we learn
+more, actively and together.
 
 To tell these stories, we incorporate four broad approaches.
 
@@ -44,7 +44,7 @@ explicit about the many problems with professional academia. So in the spirit
 of being good accomplices, we aim to democratize the sociological record for
 our subjects. We especially want to bring to the intellectual commons things
 that serve the public interest, topics with strong relevance at home such as
-alternative justice systems and jiniology.
+alternative justice and education systems and jiniology.
 
 ### III. oral history
 
@@ -62,10 +62,10 @@ in solidarity with our indigenous compas.
 
 If you're trying to sprout a better world, you need soil with need an active
 imagination. What will it look like to realize land back in your neighborhood?
-How will our notions of justice be influenced by our efforts to mitigate and
-adapt to the effects of climate change? We occasionally combine speculative
-fiction with the very real history of radical autonomous movements to help
-foresee how it will play out in our own backyard, and how we get there.
+How will our notions of justice be influenced by efforts to mitigate and adapt
+to the effects of climate change? We occasionally combine speculative fiction
+with the very real history of radical autonomous movements to help foresee how
+one could play out in our own backyard, and how we get there.
 
 ## episode formats
 
@@ -103,8 +103,8 @@ want to create.
 
 A rather ambitious goal is to travel to places like Chiapas and northeast Syria
 to conduct field reporting. This is not currently feasible, but it is something
-to work towards. In the near term, places closer to home like the Menominee
-forest in north Wisconsin are more imminently doable on a shoestring budget.
+to work towards. However, there are places closer to home more imminently
+doable on a shoestring budget, like the Menominee forest in north Wisconsin.
 
 ## music
 
