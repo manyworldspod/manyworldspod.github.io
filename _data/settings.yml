@@ -22,15 +22,15 @@ menu:
 # available social icons are powered by Font Awesome,
 # so you can use any icon that they offer
 social:
-  - icon: 'twitter'
+  - icon: 'fa-brands fa-twitter'
     link: 'https://twitter.com/many_worlds_pod'
-  - icon: 'instagram'
+  - icon: 'fa-brands fa-instagram'
     link: 'https://instagram.com/many_worlds_pod'
-  - icon: 'github'
+  - icon: 'fa-brands fa-github'
     link: 'https://github.com/manyworldspod'
-  - icon: 'envelope'
+  - icon: 'fa-solid fa-envelope'
     link: 'mailto:many.worlds.pod@protonmail.com'
-  - icon: 'rss-square'
+  - icon: 'fa-solid fa-rss'
     link: 'feed.xml'
 #  - {icon: 'rss-square', link: 'rss-feed.xml'}
 
