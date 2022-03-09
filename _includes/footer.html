@@ -1,5 +1,5 @@
 <footer class="footer">
-  {% if page.is_post %}
+  {% if page.layout == "post" %}
     <a href="{{ site.github.url }}/assets/zines/{{ page.slug }}.pdf" title="capture this article as a zine" target="_blank">
       <i class="fa-solid fa-book"></i>
     </a>
