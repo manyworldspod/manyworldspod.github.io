@@ -5,7 +5,8 @@
   {% else %}
     {{ site.author }}
   {% endif %}
-</span><span class="post-date">
+</span>
+<span class="post-date">
   {{ site.data.settings.post_date_prefix }}
   {% assign d = page.date | date: "%-d"  %}
   {{ page.date | date: "%B" }}
