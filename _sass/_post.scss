@@ -3,12 +3,22 @@
   display: block;
   margin: 10px auto 10px;
 }
-figcaption, .byline, .post-date, .post-zine, .share-prompt {
+.post-title-block {
+  display: block;
+  clear: both;
+}
+.post-title {
+  float: left;
+}
+.post-zine {
+  float: right;
+}
+figcaption, .byline, .post-date, .share-prompt {
   display: block;
   color: #9a9a9a;
   font-size:1rem;
 }
-figcaption, .post-zine {
+figcaption {
   font-style: italic;
 }
 .post-date, .share-prompt {
