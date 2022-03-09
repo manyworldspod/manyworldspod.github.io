@@ -3,7 +3,7 @@
   display: block;
   margin: 10px auto 10px;
 }
-figcaption, .byline, .post-date, .post-zine, .share-prompt {
+figcaption, .byline, .post-date, .share-prompt {
   display: block;
   color: #9a9a9a;
   font-size: 1rem;
@@ -11,7 +11,7 @@ figcaption, .byline, .post-date, .post-zine, .share-prompt {
 figcaption {
   font-style: italic;
 }
-.post-zine, .share-prompt {
+.post-date, .share-prompt {
   margin-bottom: 1rem;
 }
 .featured-image img {

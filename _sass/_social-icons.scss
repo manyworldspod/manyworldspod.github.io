@@ -9,6 +9,11 @@
   }
 }
 
+.fa-book {
+  padding: 5px;
+  @include social-media-icon($zine-color, $icon-transition-time);
+}
+
 .fa-envelope {
   padding: 5px;
   @include social-media-icon($envelope-color, $icon-transition-time);
@@ -39,11 +44,6 @@
   @include social-media-icon($facebook-color, $icon-transition-time);
 }
 
-.fa-google-plus {
-  padding: 5px;
-  @include social-media-icon($google-color, $icon-transition-time);
-}
-
 .fa-pinterest {
   padding: 5px;
   @include social-media-icon($pinterest-color, $icon-transition-time);
@@ -59,7 +59,7 @@
   @include social-media-icon($codepen-color, $icon-transition-time);
 }
 
-.fa-rss-square {
+.fa-rss {
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
 }
