@@ -28,8 +28,12 @@ pagination:
   next_page: 'newer'
   previous_page: 'older'
 
+# customize post formatting
+
+byline_prefix: 'by'
+
+post_date_prefix: 'published on'
+
 sharing_button_prompt: 'steal this page!'
 
 related_posts: 'you may also appreciate...'
-
-post_date_prefix: 'published on'
