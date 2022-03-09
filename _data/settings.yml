@@ -29,11 +29,7 @@ pagination:
   previous_page: 'older'
 
 # customize post formatting
-
 byline_prefix: 'by'
-
-post_date_prefix: 'published on'
-
+post_date_prefix: 'published'
 sharing_button_prompt: 'steal this page!'
-
 related_posts: 'you may also appreciate...'
