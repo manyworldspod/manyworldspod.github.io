@@ -7,6 +7,9 @@ tags: [rojava,restorative justice,jiniology,dual power,complementarity]
 image: YPJ.png
 ---
 
+*an imposed PDF of this article is available
+[here](https://ia802302.us.archive.org/3/items/restorative-justice-in-ne-syria-/restorative%20justice%20in%20ne%20syria_impo.pdf)*
+
 ## Introduction
 
 I want to start this off with a thought experiment. Imagine that, for one
@@ -98,6 +101,8 @@ and extremely symbiotic. What they give to us in knowledge and experience is
 undoubtedly a gift, but it is also a seed. What we can give to them in return
 is to sow that seed — as praxis, right here in our own community.
 
+## Autonomous Administration of North and East Syria [AANES]
+
 <figure>
   <img
     src="https://manyworldspod.github.io/assets/img/restorative-justice-northeast-syria/kurdistan.jpg"
@@ -110,8 +115,6 @@ is to sow that seed — as praxis, right here in our own community.
     )
   </figcaption>
 </figure>
-
-## Autonomous Administration of North and East Syria [AANES]
 
 Understanding the cultural revolution in Rojava requires historical context. A
 fully honest discussion would probably start with European imperialism, World
