@@ -1,17 +1,18 @@
-# Site Build Settings
+# site build settings
 
 # jekyll-paginate configuration
-paginate:            5
+paginate: 5
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+# build settings
+markdown:    kramdown
+highlighter: rouge
+permalink:   /:title
+plugins:     [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		       "where many worlds fit"
-description:	       "a podcast about radical autonomy"
+# customise atom feed settings
+# (this is where Jekyll-Feed gets configuration information)
+title:       "where many worlds fit"
+description: "a podcast about radical autonomy"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
