@@ -325,3 +325,314 @@ of the Syrian Civil War, what might we be capable of right here at home?
 ## Paths to restorative justice
 
 ### Complementarity
+
+So what can we take away from this example?
+
+Earlier in this article I suggested that we cannot be idle receivers of
+information. If you take nothing else from this entire debrief, please, let it
+be this. A mutual exchange of ideas is not just a goal for today; it is not
+mere bloviating, and it goes well beyond soulless woke liberal politics. It is,
+in fact, a sturdy foundation for the only thing that can truly un-fuck our
+national (and international) situation.
+
+For perhaps the majority of people listening, the COVID-19 pandemic is the
+first time in living memory you got the idea that our entire society might be
+built on sand. The engines of neoliberal capitalism were completely unprepared
+to respond to a disaster of this magnitude. In the months since, we’ve been
+watching infrastructure slowly crumble in a way not all that different from the
+collapse of the former Soviet Union. I personally have several friends who,
+already bouncing between unstable service industry jobs, completely lost the
+income they need to survive and faced eviction or houselessness. I also know
+rural small business operators to whom useless politicians passed the buck,
+forcing them to make an impossible choice between staying open during a global
+pandemic or cutting off their only way to break even and sustain their
+families. I am certain many of you listening can relate to this. The point is
+not to cast blame on this political party or that convenient scapegoat; it is
+instead to take a sober look across our fair land and accept that help is not
+coming.
+
+But neither does it have to. We’re all we’ve got; we’re also all we need.
+
+Another phenomenon that occurred in the wake of COVID-19 is the surge in
+popularity of mutual aid. Right away I want to draw a bold line for folx new to
+this concept. Mutual aid is very different from charity, where a relatively
+small group of individuals give to another group in a time of need. As a
+practice, there’s nothing inherently wrong with charity — lots of people are
+fed and sheltered by the generosity of others. Within the recipient’s life
+though, it tends to be a temporary fix. It is also easily co-opted by bad-faith
+actors. When charity is executed on a global scale by a billionaire funded
+nonprofit industrial complex, it propagates a specific ideology about who has
+influence and who ought to. This can have a devastating impact on real human
+lives. When vaccines emerged that could seemingly end the COVID-19 pandemic,
+the Bill and Melinda Gates Foundation — a massively influential nonprofit —
+successfully lobbied against open source distribution on the grounds that it
+would threaten intellectual property rights.
+
+In lieu of ideology, mutual aid is both built on and reinforced by a social
+ethic of complementarity. In biology this term is connected to symbiosis, the
+phenomenon where several organisms mutually thrive within the same ecosystem.
+Think of the way bees pollinate flowers and other flora, allowing the bees to
+eat and the flowers to reproduce. Scaled up to something like an apple tree, a
+much broader system of biological sustenance is achieved because other
+organisms (like humans) eat the fruit of those trees.
+
+This is not just an analogy. It is the way Indigenous peoples the world over
+have been living for centuries, and in many of those circumstances, it is
+intimately tied to their conceptions of justice. We’ll revisit this later in
+more detail but I will note Indigenous peoples are far and away Earth’s best
+human land stewards, overseeing some 80% of land-based biodiversity worldwide.
+When you see yourself as symbiotic with the life all around you, your idea of
+justice will naturally adapt to that worldview.
+
+What does this look like in practice? In northeast Syria there is a concept
+rooted in Kurdish tradition called hevaltî. The word roughly translates as
+"friendship," but it means something altogether more profound than the common
+Western reading of that term. Northeast Syria is not just home to Kurds; it is
+a multi-ethnic society of up to 4.6 million people in which very different
+cultures must coexist. The AANES charter acknowledges this in its opening
+lines:
+
+*We, the people of the Democratic Autonomous Regions of Afrin, Jazira and
+Kobani, a confederation of Kurds, Arabs, Syriacs, Arameans, Turkmen, Armenians
+and Chechens, freely and solemnly declare and establish this Charter.*
+
+Speaking to the need for complementarity, the charter continues:
+
+*In pursuit of freedom, justice, dignity and democracy and led by principles of
+equality and environmental sustainability, the Charter proclaims a new social
+contract, based upon mutual and peaceful coexistence and understanding between
+all strands of society. It protects fundamental human rights and liberties and
+reaffirms the peoples’ right to self-determination.*
+
+The culture of hevaltî means that among the citizens of this region there is a
+mutual understanding that "my community consists of my friends." Not as some
+vague abstract platitude, but as a very real social category. There are things
+you do for your friends that you just wouldn’t do for someone you don’t feel
+connected to or consider your societal equal. This very simple reframing lies
+at the heart of the revolutions in both Chiapas and Rojava.
+
+It is not at all a coincidence that the Zapatistas practice a remarkably
+similar community ethic, which they call Zapatismo. To me it underscores
+something so intuitive and spiritual that it’s almost too important to carry
+just one name. In the words of Subcomandante Marcos, the Zapatistas'
+spokesperson:
+
+*Zapatismo is not an ideology, it is not a bought and paid for doctrine. It is
+[...] an intuition. Something so open and flexible that it really occurs in all
+places. Zapatismo poses the question: "What is it that has excluded me?" "What
+is it that has isolated me?" In each place the response is different. Zapatismo
+simply states the question and stipulates that the response is plural, that the
+response is inclusive.*
+
+Think back again to the start of the COVID-19 pandemic. One of the very first
+things many of us naturally did was figure out who on our block was elderly or
+immunocompromised. We organized very simple distribution networks to make sure
+these people had access to basic necessities without putting themselves at risk
+of exposure to the virus. At the time, I lived in rural Pennsylvania across the
+street from a lifelong gardener well into her 80s. When I did supply drops of
+cat litter, dry goods, and toiletries, she gave me fresh peppers, cucumbers,
+and tomatoes out of her garden. As time went on the less vulnerable neighbors
+on my block would take turns arranging supply drops and that garden became a
+kind of free farmer’s market.
+
+The culture of complementarity practiced in places like Rojava and Chiapas is
+extensive. It includes community members who generally suffer invisibly here in
+the U.S.: the houseless and convicted so-called criminals. I invite you to the
+idea that on the road to realizing restorative justice in Milwaukee, our first
+stop could be a simple — yet radical — shift in our collective thinking. We can
+start viewing these forgotten neighbors not as annoyances or less-fortunates to
+exploit for clout or virtue signaling, but as our friends.
+
+What would you do for your friend if they were in a bind? My guess is that,
+whatever your answer, your first instinct is probably much closer to solidarity
+than to charity.
+
+### Dual Power
+
+Mutual aid is essential, but it alone is not enough to sustain us. It is
+absolutely true that, in the face of disaster, small networks of people and
+even whole communities can and do rise up to meet each others’ needs. It is
+also true that when this happens, state actors tend to react like the hammer of
+God come to fuck up their Christmas.
+
+There is a vast body of sociological research to support this. One seminal work
+is *Elites and Panic: More to Fear than Fear Itself*, a 2008 analysis
+documenting a phenomenon the authors dub *elite panic*. To quote the paper’s
+introduction:
+
+*Sociological research on how people respond to disasters has been going on for
+more than 50 years. From that research comes one of the most robust conclusions
+in sociology: panic is rare. There is detailed research on supper club fires,
+airplane crashes, epidemics, hurricanes and so on. Regardless of whether the
+hazard is dramatic or mundane, whether there is a low or high body-count, or
+whether the threat is acute or chronic, social scientists agree that "panic"
+explains little that is important about how people, in collectives, respond to
+disaster.*
+
+Panic from below is extraordinarily rare. From the great San Francisco fire of
+1906, to the behavior of Londoners during the blitz, to New Orleans in the wake
+of Hurricane Katrina — when the chips are truly down, communities of people
+tend to respond by organizing rudimentary distribution networks and other
+mutual aid. Mass hysteria, B-movie style pandemonium in the streets, is all but
+unheard of. What is extremely common is panic from above: elites and authority
+figures, including elected politicians and business tycoons, reflexively
+pulling the levers of state power to assert their dominance. This is hardly a
+shock in the early half of 2022, after 24 months of a global pandemic has
+stranded vast groups of people without any substantive safety net. Violent
+police riots have routinely followed even the mildest forms of antiracist
+dissent, while fascist street gangs openly invade liberal enclaves like Los
+Angeles and Portland without any hint of law enforcement response. On a
+completely unrelated note, a Business Insider article from October 2020 found
+that American billionaires had grown their personal wealth by more than 637
+billion dollars since January of the same year.
+
+Politicians and the ultra-wealthy, nominally our society's decision makers who
+have access to extraordinary resources and incomprehensibly vast oceans of
+data, ultimately tend to prioritize threats to their power, influence, and
+public reputation while everyone else worries about the survival of their
+neighborhood. Their decisions are not the only, or even the most important,
+ones that need to be made. The author Cory Doctorow, in analyzing Rebecca
+Solnit's essential work *A Paradise Built in Hell*, summarizes the situation
+this way:
+
+*Elites tend to believe in a venal, selfish, and essentially monstrous version
+of human nature, which I sometimes think is their own human nature. I mean,
+people don’t become incredibly wealthy and powerful by being angelic,
+necessarily. They believe that only their power keeps the rest of us in line
+and that when it somehow shrinks away, our seething violence will rise to the
+surface — that was very clear in Katrina. Timothy Garton Ash and Maureen Dowd
+and all these other people immediately jumped on the bandwagon and started
+writing commentaries based on the assumption that the rumors of mass violence
+during Katrina were true. A lot of people have never understood that the rumors
+were dispelled and that those things didn’t actually happen; it’s tragic.*
+
+It’s worth asking, loudly, why this happens. There are as many answers to this
+question as there are politicians, and each of those answers is complex and
+sociologically fascinating. For our purposes, what’s important is that it
+definitely is not the result of some vague grand conspiracy. Power is an
+exceptionally potent drug even in mild doses and there has been no human being,
+living or dead, immune to its effects. What we are dealing with is not some
+loosely defined notion of evil, and none of this is meant as an excuse to make
+value judgments against individual people. Elite panic and the drug of power
+are both deeply rooted in the human psyche, much like a hedgerow. We will never
+be rid of them, but we can do a better job of balancing them with other human
+tendencies — like egalitarianism. I'm lingering on this point because the death
+of nuance is a huge part of how we all got into our current mess. In a media
+environment built so fundamentally and for so long on outrage, cynicism is an
+especially easy trap. It can lead to dehumanization of the political "other,"
+which desensitizes us to violence. It works to raise our national temperature
+closer to a boiling point. It’s also an essential ingredient in kicking off
+modern civil conflicts.
+
+I invite you to the idea that a much more fruitful alternative is to build
+durable networks of solidarity, and it’s here that I have to lay my cards on
+the table. The lessons I'm curating from both Chiapas and Rojava are
+overwhelmingly focused more on social ethics than on ideology, and that is very
+much in the spirit of both revolutions. Because to be blunt, human beings will
+never share a single ideology and it would be unspeakably, foolishly arrogant
+to try to impose one. Ideological pissing contests are a path to cynicism which
+is a precondition for violence. Notwithstanding the direct cost in human lives,
+a modern style civil war in North America would utterly devastate the entire
+planet. The U.S. is the source of much of the world's agriculture, controls an
+awful lot of its wealth, and, not for nothing, is littered with just an
+absolute shitload of nuclear weapons. The American military is also the world's
+largest emitter of greenhouse gasses and would only fart out even more during a
+civil conflict scenario. I believe I've made my point: long-term sustainability
+is no less central to our mission here than restorative justice, especially if
+part of what we're restoring is ecological balance.
+
+In truth, every democratic system should implicitly expect and accept both
+disagreement and a certain lack of closure, sometimes bitterly so. The modern
+United States is home to no less diverse a society than Syrian Kurdistan,
+regardless of the lens you view it through: ethnically, politically,
+spiritually, sexually, and geographically, there are some 300 million ways and
+counting to be an American. And make no mistake, democracy is exactly the goal
+— neither a liberal nor representative one, nor a system of pointlessly
+bureaucratic popularity contests, nor a spooky shadow government come to take
+your guns and your freedom — but a ***direct democracy***, a society truly run
+from the bottom up by its people. To quote Murray Bookchin:
+
+*It is an effort to work from latent or incipient democratic possibilities
+toward a radically new configuration of society itself–a communitarian society
+oriented toward meeting human needs, responding to ecological imperatives, and
+developing a new ethics based on sharing and cooperation. That it involves a
+consistently independent form of politics is a truism. More important, it
+involves a redefinition of politics, a return to the word’s original Greek
+meaning as the management of the community or polis by means of direct
+face-to-face assemblies of the people in the formulation of public policy and
+based on an ethics of complementarity and solidarity.*
+
+Building a direct democracy is the project of ***dual power***. In both
+Chiapas and Rojava, direct assemblies are formed bottom-up starting at the
+household level. A network of individuals forms a household assembly, a network
+of households forms a neighborhood assembly, a network of neighborhoods forms a
+municipal assembly, and so on. Rather than elect representatives, folx
+generally take turns acting as delegates to churn the engines of decision
+making themselves. Day-to-day life is not centered around work, at least not in
+the way you're probably thinking. The goal is not to service the whims of a
+middle manager with less experience than you or to stuff the pockets of some
+rich asshole you'll never meet who lives in a city you'll never visit. Your
+access to housing and healthcare does not depend on capricious dipshits who
+only bother to talk to you when they can exploit you. In these autonomous
+administrations, day-to-day life is generally structured around the people in
+your community: your neighbors, your family, the people you see when you're out
+at the store or spending a day at the beach, the people who care for your kids
+and remember the names of your pets.
+
+It’s not perfect because people aren’t perfect. But right now, as you read
+this, socially conservative Arab farmers in the Euphrates Region are peacefully
+coexisting with city dwellers in places like Qamişlo. Councils of neighborhood
+grandmas are brokering peace between survivors and perpetrators of violence.
+Women across northeast Syria are reinterpreting whole fields of study to
+liberate each other from their most ancient oppressor. Many are co-leaders in
+the SDF, defending their neighbors against the cancerous ideas at the heart of
+both ISIS and advancing Turkish fascists.
+
+Dual power, an American version of Zapatismo, is the best chance we have of
+realizing similar autonomy right here at home in raw human defiance of the
+crises of our age. Its aim is to build up a new world within the crumbling
+shell of the old. It presents a strategy in which mutual aid infrastructure for
+a bottom-up social revolution is laid peacefully and in cooperation between
+rural and urban localities, between conservative and progressive attitudes. It
+will naturally oppose the crumbling state because the crumbling state rightly
+sees mutual aid as a serious threat to its influence, and its bottom line. But
+opposing the state is not really the point of dual power. Self-determination
+is.
+
+So how do we do this? How can a project of mutual aid expand nationwide while
+remaining fundamentally local, nimble, and decentralized? How can a dual power
+approach solve more complex infrastructure problems, like food and medicine
+distribution or public education? What sort of justice system are we going to
+replace police and prisons with? Coupled with that, how will we administer
+mental health assistance to those who need it, when they need it? How can we
+accomplish all this and more without replicating, through sheer force of habit,
+the exact problems we’re trying to fix? Will there be violins? Who's going to
+make the violins? There do exist multiple proposed solutions to all of these
+problems, but at the end of the day, it’s for all of us to come together to
+decide.
+
+That sums up our first goal and our first call to action: to build cultural
+infrastructure for autonomous decision making, which gets us on the path to
+physical infrastructure for material needs. The coming episodes will feature
+interviews from people involved in these movements in an attempt to learn and
+apply their methods. We will also hear from local organizers who are already
+forging viable paths. It’s starting small, but the problems we face are
+manageable if we break them down into person-sized parts.
+
+And I don’t know about you. But after the last few weeks -- the last few
+*years* -- of relentless bad news, I could sure as shit use a community.
+
+## Endnotes
+
+This article was written while being sustained first by land and freshwater
+sources in occupied Menominee, Ho-Chunk, Potawatomi, and Ojibwe territory, and
+later on Lenape and Erie land.
+
+I mentioned earlier that lack of international recognition presents a major
+problem repatriating ISIS combatants held in Rojava. It also presents problems
+for COVID-19 vaccine distribution, water and food distribution, and defense
+against Russia-backed Turkish incursion. There are things you can do to help
+with this: contact your representatives and express support for recognizing the
+AANES as an autonomous government. To learn more please see the
+[Rojava Must Survive](https://www.defendrojava.org/rojava-must-survive)
+campaign.
