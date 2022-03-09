@@ -3,10 +3,13 @@
   display: block;
   margin: 10px auto 10px;
 }
-.byline, .post-date, .share-prompt {
+figcaption, .byline, .post-date, .share-prompt {
   display: block;
   color: #9a9a9a;
   font-size:1rem;
+}
+figcaption {
+  font-style: italic;
 }
 .post-date, .share-prompt {
   margin-bottom: 1rem;
