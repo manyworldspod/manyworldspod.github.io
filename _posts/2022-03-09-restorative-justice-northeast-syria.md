@@ -7,9 +7,6 @@ tags: [rojava,restorative justice,jiniology,dual power,complementarity]
 image: YPJ.png
 ---
 
-*an imposed PDF of this article is available
-[here](https://ia802302.us.archive.org/3/items/restorative-justice-in-ne-syria-/restorative%20justice%20in%20ne%20syria_impo.pdf)*
-
 ## Introduction
 
 I want to start this off with a thought experiment. Imagine that, for one
