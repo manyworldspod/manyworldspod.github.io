@@ -3,7 +3,7 @@ layout: post
 title: "Restorative Justice in Northeast Syria"
 author: "heval ashtabula"
 categories: justice
-tags: [rojava,justice,jiniology,dual power,complementarity]
+tags: [rojava,restorative justice,jiniology,dual power,complementarity]
 image: YPJ.png
 ---
 
@@ -98,6 +98,19 @@ and extremely symbiotic. What they give to us in knowledge and experience is
 undoubtedly a gift, but it is also a seed. What we can give to them in return
 is to sow that seed — as praxis, right here in our own community.
 
+<figure>
+  <img
+    src="https://manyworldspod.github.io/assets/img/restorative-justice-northeast-syria/kurdistan.jpg"
+    alt="geographic split of modern Kurdistan"
+    title="geographic split of modern Kurdistan">
+  <figcaption>
+    Geographic split of modern Kurdistan across the states of Iraq, Iran,
+    Turkey, and Syria (source:
+    <a href="https://thekurdishproject.org">The Kurdish Project</a>
+    )
+  </figcaption>
+</figure>
+
 ## Autonomous Administration of North and East Syria [AANES]
 
 Understanding the cultural revolution in Rojava requires historical context. A
@@ -137,6 +150,18 @@ self-governance and day-to-day affairs. Bit by bit these direct popular
 assemblies formed a functioning grassroots democracy, and in mid 2014 the first
 formal Constitution of Rojava had been approved, establishing the Autonomous
 Administration of North and East Syria (AANES).
+
+<figure>
+  <img
+    src="https://manyworldspod.github.io/assets/img/restorative-justice-northeast-syria/rojava.png"
+    alt="geographic layout of Rojava"
+    title="geographic layout of Rojava">
+  <figcaption>
+    Geographic layout of Rojava (source:
+    <a href="https://defendrojava.org">Emergency Committee for Rojava</a>
+    )
+  </figcaption>
+</figure>
 
 Since that time, the YPG have forged a coalition with other autonomous militia
 groups under the umbrella of the Syrian Democratic Forces (SDF). These include
@@ -209,6 +234,14 @@ celebrations and protests. Interviews with Western journalists will often
 involve a mediator from this branch whose role is to act as a security blanket,
 encouraging women to share traumatic experiences while reminding the
 journalists that consent can be revoked at any time.
+
+<figure>
+  <img
+    src="https://manyworldspod.github.io/assets/img/restorative-justice-northeast-syria/grandma.png"
+    alt="Neighborhood elder on armed patrol"
+    title="Neighborhood elder on armed patrol">
+  <figcaption>A neighborhood elder on armed patrol.</figcaption>
+</figure>
 
 At the neighborhood level, unarmed local grandmothers are often first
 responders to community problems. Their role is to facilitate peace after major
@@ -295,6 +328,19 @@ has resulted in abusive men leaving their wives. In Hilelî, Qamişlo, any man
 who beats his wife is socially ostracized and domestic violence seems to have
 vanished. In 2017 there were approximately 200 divorces, mostly due to cases of
 polygamy and child marriage.*
+
+<figure>
+  <img
+    src="https://manyworldspod.github.io/assets/img/restorative-justice-northeast-syria/sehid.png"
+    alt="Celebration for a şehîd"
+    title="Celebration for a şehîd">
+  <figcaption>
+    Public celebration of şehîd Hevrîn Xelef, a civil engineer who led the
+    formative efforts to improve civil society in Rojava. She also managed one
+    of the economic councils and became co-chair of the energy authority in
+    2016.
+  </figcaption>
+</figure>
 
 In late 2020, partly due to the COVID-19 pandemic and partly due to an
 unsustainable influx in ISIS prisoners, the administration announced general
