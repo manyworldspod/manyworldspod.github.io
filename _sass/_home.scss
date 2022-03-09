@@ -15,8 +15,8 @@
 .featured-post h2 span {
   display: inline-block;
   color: white;
-  font: bold 24px/45px $base-font-family;
-  letter-spacing: -1px;
+  font-family: $base-font-family;
+  font-size: 42px;
   background: rgb(0, 0, 0); /* fallback color */
   background: rgba(0, 0, 0, 0.7);
   padding: 10px;
