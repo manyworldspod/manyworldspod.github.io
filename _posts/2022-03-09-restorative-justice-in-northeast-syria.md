@@ -107,10 +107,10 @@ is to sow that seed — as praxis, right here in our own community.
 <figure>
   <img
     src="https://manyworldspod.github.io/assets/img/restorative-justice-northeast-syria/kurdistan.jpg"
-    alt="geographic split of modern Kurdistan"
-    title="geographic split of modern Kurdistan">
+    alt="geographic spread of modern Kurdistan"
+    title="geographic spread of modern Kurdistan">
   <figcaption>
-    Geographic split of modern Kurdistan across the states of Iraq, Iran,
+    Geographic spread of modern Kurdistan across the states of Iraq, Iran,
     Turkey, and Syria (source:
     <a href="https://thekurdishproject.org">The Kurdish Project</a>
     )
@@ -249,7 +249,7 @@ journalists that consent can be revoked at any time.
     src="https://manyworldspod.github.io/assets/img/restorative-justice-northeast-syria/grandma.png"
     alt="Neighborhood elder on armed patrol"
     title="Neighborhood elder on armed patrol">
-  <figcaption>A neighborhood elder on armed patrol.</figcaption>
+  <figcaption>A neighborhood elder on armed patrol</figcaption>
 </figure>
 
 At the neighborhood level, unarmed local grandmothers are often first
