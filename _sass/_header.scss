@@ -95,9 +95,15 @@
     background-color: #f1f1f1;
   }
 }
+@media (max-width: $tablet-width) {
+  .site-title .img-fluid {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 14px 0 10px;
+  }
+}
 @media (max-width: $phone-width) {
   .site-title .img-fluid {
-    padding-top: 16px;
-    padding-bottom: 10px;
+    display: none;
   }
 }
