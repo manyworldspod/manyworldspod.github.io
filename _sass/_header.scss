@@ -97,11 +97,6 @@
 }
 @media (max-width: $tablet-width) {
   .site-title .img-fluid {
-    padding: 14px 0 10px;
-  }
-}
-@media (max-width: $phone-width) {
-  .site-title .img-fluid {
-    height: 16px;
+    display: none;
   }
 }
