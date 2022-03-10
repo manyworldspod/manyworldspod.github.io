@@ -26,9 +26,10 @@
   float: left;
 }
 .site-title .img-fluid {
-  height: 48px;
-  margin-top: 4px;
-  margin-bottom: 4px;
+  height: 32px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  box-shadow: none;
 }
 .menu-list {
   line-height: $header-thickness;
