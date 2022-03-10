@@ -20,12 +20,15 @@
   text-decoration: none;
 }
 .site-title {
-  max-height: 50px;
+  max-height: $header-thickness;
   overflow: hidden;
-  margin-bottom: 0;
-  margin-top: 0;
   padding-left: 10px;
   float: left;
+}
+.site-title .img-fluid {
+  height: 48px;
+  margin-top: 4px;
+  margin-bottom: 4px;
 }
 .menu-list {
   line-height: $header-thickness;
