@@ -22,13 +22,11 @@
 .site-title {
   max-height: $header-thickness;
   overflow: hidden;
-  padding-left: 10px;
   float: left;
 }
 .site-title .img-fluid {
   height: 32px;
-  margin-top: 12px;
-  margin-bottom: 12px;
+  padding: 12px 10px 12px;
   box-shadow: none;
 }
 .menu-list {
