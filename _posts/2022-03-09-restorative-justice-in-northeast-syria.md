@@ -9,6 +9,8 @@ image: YPJ.png
 
 ## Introduction
 
+---
+
 I want to start this off with a thought experiment. Imagine that, for one
 reason or another, state authorities retreated from your area. For all intents
 and purposes the government was just *gone* one day. How would you organize your
@@ -99,6 +101,8 @@ undoubtedly a gift, but it is also a seed. What we can give to them in return
 is to sow that seed — as praxis, right here in our own community.
 
 ## Autonomous Administration of North and East Syria [AANES]
+
+---
 
 <figure>
   <img
@@ -376,6 +380,8 @@ change. If a pluralistic society can flourish amid the unimaginable brutality
 of the Syrian Civil War, what might we be capable of right here at home?
 
 ## Paths to restorative justice
+
+---
 
 ### Complementarity
 
@@ -687,6 +693,8 @@ And I don't know about you. But after the last few weeks -- the last few
 *years* -- of relentless bad news, I could sure as shit use a community.
 
 ## Endnotes
+
+---
 
 This article was written while being sustained first by land and freshwater
 sources in occupied Menominee, Ho-Chunk, Potawatomi, and Ojibwe territory, and
