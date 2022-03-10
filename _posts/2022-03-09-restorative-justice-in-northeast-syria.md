@@ -9,7 +9,7 @@ image: YPJ.png
 
 ## Introduction
 
----
+___
 
 I want to start this off with a thought experiment. Imagine that, for one
 reason or another, state authorities retreated from your area. For all intents
@@ -102,7 +102,7 @@ is to sow that seed — as praxis, right here in our own community.
 
 ## Autonomous Administration of North and East Syria [AANES]
 
----
+___
 
 <figure>
   <img
@@ -381,7 +381,7 @@ of the Syrian Civil War, what might we be capable of right here at home?
 
 ## Paths to restorative justice
 
----
+___
 
 ### Complementarity
 
@@ -694,7 +694,7 @@ And I don't know about you. But after the last few weeks -- the last few
 
 ## Endnotes
 
----
+___
 
 This article was written while being sustained first by land and freshwater
 sources in occupied Menominee, Ho-Chunk, Potawatomi, and Ojibwe territory, and
