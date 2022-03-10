@@ -606,7 +606,7 @@ awful lot of its wealth, and, not for nothing, is littered with just an
 absolute shitload of nuclear weapons. The American military is also the world's
 largest emitter of greenhouse gasses and would only fart out even more during a
 civil conflict scenario. I believe I've made my point: long-term sustainability
-is no less central to our mission here than restorative justice, especially if
+is no less central to our goals here than restorative justice, especially if
 part of what we're restoring is ecological balance.
 
 In truth, every democratic system should implicitly expect and accept both
