@@ -11,6 +11,8 @@ figcaption, .byline, .post-date, .share-prompt {
 figcaption {
   font-style: italic;
   margin-top: 0.6em;
+  text-align: justify;
+  text-justify: inter-word;
 }
 .post-date, .share-prompt {
   margin-bottom: 1rem;
