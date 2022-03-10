@@ -13,8 +13,8 @@ image: YPJ.png
 
 I want to start this off with a thought experiment. Imagine that, for one
 reason or another, state authorities retreated from your area. For all intents
-and purposes the government was just *gone* one day. How would you organize your
-community?
+and purposes the government was just *gone* one day. How would you organize
+your community?
 
 Keep that in the back of your mind as we go.
 
@@ -40,10 +40,10 @@ largest popular uprising to agitate for social justice in U.S. history,
 certainly within our lifetimes. Real progress has been made building networks
 of solidarity on levels local, nationwide, and international. Despite the
 valiant efforts of culture warlords, grifters, and law enforcement agencies,
-working and middle class Americans now oppose the structural violence of
+working and lower middle class Americans now oppose the structural violence of
 systemic racism at a scale not seen since the 1960s. More Americans than ever
-have started looking critically at our nation's legacy of colonialism and
-imagining paths towards justice. Worldwide, since 2018 a second wave of
+have started looking critically at our nation's history of colonialism and
+begun imagining paths toward justice. Worldwide, since 2018 a second wave of
 popular progressive protest movements have kicked off from Hong Kong to
 Catalonia, following the spate of Arab Spring and Occupy protests of the early
 2010s and the racial and environmental justice movements across North America
@@ -71,13 +71,13 @@ it helps enormously that we are far from the first to think of it.
 We have a lot to learn from two Indigenous-led coalitions who have already
 built quasi-stateless societies elsewhere in the world. Millions of people live
 out their lives under autonomous administrations in the state of Chiapas,
-Mexico, and the region of northeast Syria known to many as Rojava. Both
+Mexico, and the region of northeast Syria known to the Kurds as Rojava. Both
 societies have fascinating justice systems with significant overlap in the way
-they are structured. This is not quite on purpose, but it is also not a
+they are structured. This is not quite on purpose, but it is also not at all a
 coincidence. Later in this series we'll also look at the role education and
 social ethics play in cultivating restorative justice, and lay out a case for
-why, while trying to build a new world in the shell of the old, Indigenous
-ideas around justice should be our North Star.
+why, when we try to build a new world in the crumbling shell of the old,
+Indigenous traditions around justice should be our collective guidestar.
 
 ### Disclaimer
 
@@ -87,7 +87,7 @@ skills in research and education, but a lot of the things I'm about to describe
 are entirely outside my lived experience. While I am not straightforwardly male
 (or straight) I was born into a body with white skin and a penis. What's more,
 a Ph.D. in astrophysics has trained me to deliver words to an audience with far
-more confidence and authority than I've ever earned.
+more confidence and authority than I've ever actually earned.
 
 Because of these limitations, I've sought help from people who actually have
 experienced the restorative justice systems we're about to discuss. We'll hear
@@ -125,7 +125,7 @@ secretly drew lines on a map and partitioned the former Ottoman Empire into a
 mishmash of states with hard borders, casually disregarding centuries of
 cultural variation across the entire subcontinent. (Incidentally, American
 audiences unfamiliar with this history should keep Sykes-Picot in mind whenever
-they wonder why the Middle East is so unstable.)
+they wonder why the SWANA region is so geopolitically unstable.)
 
 One people particularly affected by this history are the Kurds, whose
 traditions, languages, and religions all stretch back thousands of years. The
@@ -161,7 +161,7 @@ Administration of North and East Syria (AANES).
     alt="geographic layout of Rojava"
     title="geographic layout of Rojava">
   <figcaption>
-    Geographic layout of Rojava (source:
+    Geographic layout of Rojava circa 2019 (source:
     <a href="https://defendrojava.org">Emergency Committee for Rojava</a>
     )
   </figcaption>
@@ -379,13 +379,13 @@ reorganize American society around durable communities that can weather climate
 change. If a pluralistic society can flourish amid the unimaginable brutality
 of the Syrian Civil War, what might we be capable of right here at home?
 
-## Paths to restorative justice
+## Analysis: paths to restorative justice
 
 ---
 
 ### Complementarity
 
-So what can we take away from this example?
+So what can we take away from all this?
 
 Earlier in this article I suggested that we cannot be idle receivers of
 information. If you take nothing else from this entire debrief, please, let it
