@@ -42,7 +42,7 @@
 .header a:hover, .menu-list .menu-link:hover, .site-title:hover {
   background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05));
 }
-.site-title .img-fluid {
+.site-title .img-fluid:hover {
   filter: brightness(95%);
 }
 
