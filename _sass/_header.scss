@@ -22,13 +22,13 @@
 .site-title {
   max-height: $header-thickness;
   overflow: hidden;
-  padding-left: 10px;
+  padding: 0 10px;
   float: left;
 }
 .site-title .img-fluid {
   height: 28px;
-  margin-top: 14px;
-  margin-bottom: 14px;
+  margin-top: 16px;
+  margin-bottom: 12px;
   box-shadow: none;
 }
 .menu-list {
@@ -36,11 +36,11 @@
   float: right;
 }
 .menu-link {
-  font-size: 20px;
+  font-size: 21px;
   padding: 5px 10px;
 }
-.site-title:hover, .menu-link:hover {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+.site-title:hover, .site-title .img-fluid:hover, .menu-link:hover {
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
 }
 
 /*
