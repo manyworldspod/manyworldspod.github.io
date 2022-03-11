@@ -4,7 +4,7 @@ title: "Restorative Justice in Northeast Syria"
 author: "heval ashtabula"
 categories: justice
 tags: [rojava,restorative justice,jiniology,dual power,complementarity]
-image: YPJ.png
+image: jinwar.png
 ---
 
 ## Introduction
