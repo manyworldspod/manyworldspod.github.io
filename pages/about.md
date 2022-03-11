@@ -102,9 +102,12 @@ want to create.
 ### field reporting
 
 A rather ambitious goal is to travel to places like Chiapas and northeast Syria
-to conduct field reporting. This is not currently feasible, but it is something
-to work towards. However, there are places closer to home more imminently
-doable on a shoestring budget, like the Menominee forest in north Wisconsin.
+to conduct field reporting. This is challenging to pull off but it is something
+to work towards. There are also places closer to home where Indigenous land
+stewardship continues, like the Menominee forest in north Wisconsin, and land
+defenders are active, like the
+[Gidimt'en Checkpoint](https://www.yintahaccess.com/) where the Wet'suwet'en
+Nation is resisting encroachment by oil pipelines.
 
 ## music
 
@@ -113,8 +116,13 @@ doable on a shoestring budget, like the Menominee forest in north Wisconsin.
 [Yaotl Mictlan](https://yaotlmictlan.bandcamp.com/) are an Aztec folk metal
 group who support struggles from below and to the left. Their productions,
 such as *Entre Lluvias Fuertes* ("between heavy rains") in episode 1, are
-used here with permission.
+used here with consent of the band.
 
 ## contact us
 
 ---
+
+* by email: [many.worlds.pod@protonmail.com](mailto:many.worlds.pod@protonmail.com)
+* by twitter: [@many_worlds_pod](https://twitter.com/many_worlds_pod)
+* by instagram (for photojournalism): [@many_worlds_pod](https://instagram.com/many_worlds_pod)
+* to report technical issues/requests: [GitHub](https://github.com/manyworldspod)
