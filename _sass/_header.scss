@@ -27,8 +27,8 @@
 }
 .site-title .img-fluid {
   height: 28px;
-  margin-top: 18px;
-  margin-bottom: 10px;
+  margin-top: 17px;
+  margin-bottom: 11px;
   box-shadow: none;
 }
 .menu-list {
@@ -42,7 +42,7 @@
 .header a:hover, .menu-list .menu-link:hover, .site-title:hover {
   background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05));
 }
-.site-title .img-fluid:hover {
+.site-title:hover .img-fluid {
   filter: brightness(95%);
 }
 
