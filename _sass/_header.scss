@@ -27,8 +27,8 @@
 }
 .site-title .img-fluid {
   height: 28px;
-  margin-top: 16px;
-  margin-bottom: 12px;
+  margin-top: 17px;
+  margin-bottom: 11px;
   box-shadow: none;
 }
 .menu-list {
@@ -39,7 +39,7 @@
   font-size: 21px;
   padding: 5px 10px;
 }
-.header a:hover, .header a .img-fluid:hover {
+.header a:hover, .header .menu-link:hover, .site-title:hover {
   background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05));
 }
 
