@@ -1,0 +1,2 @@
+pdf-engine: pdflatex
+#template: zine_template.tex

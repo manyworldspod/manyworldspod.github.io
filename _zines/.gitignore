@@ -1,0 +1,3 @@
+# ignore intermediate products,
+# allowing this to be a scratch folder
+*.{md,pdf}
