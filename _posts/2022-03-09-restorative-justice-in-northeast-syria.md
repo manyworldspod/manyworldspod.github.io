@@ -4,7 +4,8 @@ title: "Restorative Justice in Northeast Syria"
 author: "heval ashtabula"
 categories: justice
 tags: [rojava,restorative justice,jiniology,dual power,complementarity]
-image: restorative-justice-northeast-syria/jinwar.jpg
+image: jinwar.jpg
+image_caption: "Residents tending a garden in the women's village of Jinwar (source: [Jinwar - Free Women's Village Rojava](https://www.youtube.com/watch?v=ig_Yo1iVM7U))"
 ---
 
 ## Introduction
