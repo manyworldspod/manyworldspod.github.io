@@ -55,9 +55,16 @@ make restorative-justice-northeast-syria
 ```
 
 This will publish an imposed PDF of your zine under `/assets/zines/<stub>.pdf`,
-from the repository's top-level directory. If your article cites references
-via hyperlink, those links will be captured and written out in full as
-footnotes wherever they're cited.
+from the repository's top-level directory.
+
+Some other notes:
+
+* If your article cites references via hyperlink, those links will be captured
+  and written out in full as footnotes wherever they're cited.
+* The final zine will include boilerplate text about the podcast on the inside
+  front cover, followed by table of contents. The back cover will always fall
+  on an even page; if it's on an odd page, a blank page will be inserted right
+  before it.
 
 ### But wait!
 
