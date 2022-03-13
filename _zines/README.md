@@ -59,13 +59,14 @@ from the repository's top-level directory. If your article cites references
 via hyperlink, those links will be captured and written out in full as
 footnotes wherever they're cited.
 
-### Note
+### But wait!
 
-Before you publish your zine publicly, you'll want to compare the output of the
+Before you share your zine publicly, you'll want to compare the output of the
 imposed version (`/assets/zines/<stub>.pdf`) to the raw version (`raw.pdf` in
 this directory). If something seems off, _e.g._ there are pages missing, it's
 likely because of a setting in `impose.tex`. If you open that file and go to
-line 22 you will find it:
+[line 22](https://github.com/manyworldspod/manyworldspod.github.io/blob/main/_zines/impose.tex#L22)
+you will find it:
 
 ```tex
 \includepdf[pages=-,signature=28,landscape]{raw.pdf}
@@ -98,6 +99,9 @@ can simply run
 ```bash
 make clean
 ```
+
+When you're ready to publish to the website, make sure you're on a scratch
+branch, push to `origin/<branch>` and open a pull request.
 
 ### Why do we need another markdown file? Didn't I post from a markdown to begin with...?
 
