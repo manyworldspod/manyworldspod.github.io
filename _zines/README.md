@@ -3,7 +3,7 @@
 This folder contains a suite of tools that export, format, and ultimately
 publish zines based on articles posted to the website. The zines are printed
 on A4 paper, [imposed](https://en.wikipedia.org/wiki/Imposition) such that one
-sheet of paper contains two pages per side.
+sheet of paper contains two pages per side (four total).
 
 ## Installation
 
