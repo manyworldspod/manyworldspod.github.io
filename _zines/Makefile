@@ -6,10 +6,8 @@
 	# this is done to properly capture images, captions, and links
 	- pandoc -s -r html https://manyworldspod.github.io/$@ -o $@.md
 	# remove vestiges of the website's header and footer,
-	# and perform a few other minor formatting enhancements
+	# and do a few other minor formatting enhancements
 	- python -m condition_text $@.md
-	- sed -i '' "s/ \\\| Where Many Worlds Fit//g" $@.md
-	- sed -i '' "/\-\-\-\-/d" $@.md
 	# convert the markdown to PDF
 	- pandoc $@.md --defaults defaults.yml -o $@.pdf
 
