@@ -36,7 +36,7 @@ hand with HTML tags.
 
 ## Render the imposed PDF
 
-Now you are ready to publish a zine. To do this you'll need your post's stub,
+Now you are ready to publish a zine! To do this you'll need your post's stub,
 the shortname it's filed under online. For example, the article published at
 https://manyworldspod.github.io/restorative-justice-northeast-syria has the
 stub `restorative-justice-northeast-syria`.
