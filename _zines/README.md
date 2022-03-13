@@ -62,7 +62,7 @@ Some other notes:
 * If your article cites references via hyperlink, those links will be captured
   and written out in full as footnotes wherever they're cited.
 * The final zine will include boilerplate text about the podcast on the inside
-  front cover, followed by table of contents. The back cover will always fall
+  front cover, followed by a table of contents. The back cover will always fall
   on an even page; if it's on an odd page, a blank page will be inserted right
   before it.
 
