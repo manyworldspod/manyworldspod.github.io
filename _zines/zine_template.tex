@@ -3,6 +3,7 @@
 \documentclass{article}
 \usepackage{bigfoot,caption,graphicx,hyperref}
 \usepackage[nodayofweek]{datetime}
+\usepackage[a4paper,total={6in,9in}]{geometry}
 
 % -- fonts
 \usepackage[T1]{fontenc}
@@ -44,6 +45,7 @@
     \do\)\do\,\do\?\do\'\do\+\do\=\do\#\do\-%
 }\Urlmuskip=0mu plus 1mu
 
+
 % -- main body ----------------------------------------------------------------
 
 
@@ -51,13 +53,13 @@
 
 \begin{titlepage}
     \centering
-    \vspace*{4cm}
+    \vspace*{5cm}
     \HRule \\[0.5cm]
     \includegraphics{../assets/img/banner.jpg} \\[0.6cm]
-    {\LARGE $title$} \\[0.2cm]
-    \HRule \\[1.5cm]
-    {\Large $for(author)$$author$$sep$ \and $endfor$} \\[0.3cm]
-    {\Large \longdate\today}
+    {\Huge $title$} \\[0.2cm]
+    \HRule \\[2cm]
+    {\LARGE $for(author)$$author$$sep$ \and $endfor$} \\[0.3cm]
+    {\LARGE \longdate\today}
 \end{titlepage}
 
 \tableofcontents

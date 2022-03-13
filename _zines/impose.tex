@@ -1,0 +1,24 @@
+% -- preamble -----------------------------------------------------------------
+
+\documentclass[12pt,twoside]{article}
+
+% -- page size
+\pdfpagewidth 8.5in
+\pdfpageheight 11in
+
+% -- layout and geometry
+\usepackage[pdftex]{color,graphicx,epsfig}
+\usepackage[paperwidth=8.5in,paperheight=11in,left=0in,top=0in,bottom=0in,right=0in]{geometry}
+\usepackage[final]{pdfpages}
+
+
+% -- main body ----------------------------------------------------------------
+
+
+\begin{document}
+
+% dash means all pages, signature is number of pages in each package
+% landscape of course means reorient single pages by 90°
+\includepdf[pages=-,signature=22,landscape]{raw.pdf}
+
+\end{document}

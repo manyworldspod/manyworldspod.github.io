@@ -9,8 +9,11 @@
 	# and do a few other minor formatting enhancements
 	- python -m condition_text $@.md
 	# convert the markdown to PDF
-	- pandoc $@.md --defaults defaults.yml -o $@.pdf
+	- pandoc $@.md --defaults defaults.yml -o raw.pdf
+	# finally, impose two script pages per A4 page
+	# NOTE: please check the settings in impose.tex for this article
+	- pdflatex impose && mv impose.pdf ../assets/zines/$@.pdf
 
 clean:
 	# remove intermediate publishing products
-	- rm -f *.{md,pdf}
+	- rm -rf __pycache__ *.{aux,log,md,pdf}
