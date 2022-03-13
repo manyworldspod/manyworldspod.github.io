@@ -108,7 +108,7 @@ make clean
 ```
 
 When you're ready to publish to the website, make sure you're on a scratch
-branch, push to `origin/<branch>` and open a pull request.
+branch, then push to `origin/<branch>` and open a pull request.
 
 ### Why do we need another markdown file? Didn't I post from a markdown to begin with...?
 
