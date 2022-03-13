@@ -1,9 +1,9 @@
 % -- preamble -----------------------------------------------------------------
 
-\documentclass{article}
-\usepackage{bigfoot,caption,graphicx,hyperref}
+\documentclass[12pt]{article}
+\usepackage{bigfoot,caption,graphicx,hyperref,ifoddpage}
 \usepackage[nodayofweek]{datetime}
-\usepackage[a4paper,total={6in,9in}]{geometry}
+\usepackage[a4paper,total={6in,9.5in}]{geometry}
 
 % -- fonts
 \usepackage[T1]{fontenc}
@@ -16,6 +16,9 @@
 \titleformat*{\subsection}{\large\bf\sffamily}
 \titleformat*{\subsubsection}{\normalsize\bf\sffamily}
 \setcounter{secnumdepth}{0}
+
+% -- blank page object
+\def\blankpage{\clearpage\thispagestyle{empty}\null\clearpage}
 
 % -- text spacing
 \setlength{\parskip}{1em}
@@ -51,6 +54,7 @@
 
 \begin{document}
 
+% -- title page
 \begin{titlepage}
     \centering
     \vspace*{5cm}
@@ -62,9 +66,40 @@
     {\LARGE \longdate\today}
 \end{titlepage}
 
-\tableofcontents
+% -- frontmatter
+\thispagestyle{empty}
+\setcounter{page}{2}
+\vspace*{6cm}
+\textsc{Where Many Worlds Fit} is a podcast about radical autonomy. It is
+interested in lessons about education, restorative justice, prefiguration,
+ecology, organization, and many, many other things, through conversation
+with active libertarian movements around the world. Many of these movements
+emerge from the natural union of long-held indigenous traditions with more
+modern political philosophy, and support diverse, pluralistic societies of
+millions of people. They are worlds where many worlds fit.
+
+For more information, please visit \texttt{https://manyworldspod.github.io}.
 \clearpage
 
+% -- table of contents
+\thispagestyle{empty}
+\tableofcontents
+\clearpage
+\blankpage
+
+% -- article contents
 $body$
+
+% -- back cover
+\clearpage
+\checkoddpage
+\ifoddpage
+    \blankpage
+\fi
+\thispagestyle{empty}
+\vspace*{6cm}
+\noindent\HRule \\[0.5cm]
+\textit{\large $description$} \\[0.3cm]
+\HRule
 
 \end{document}

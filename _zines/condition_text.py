@@ -1,3 +1,4 @@
+import os
 import re
 import sys
 
@@ -45,6 +46,17 @@ if __name__ == "__main__":
         )
     )
 
+    blurb = ""  # if a blurb is available, use it
+    if os.path.exists("blurb.md"):
+        with open("blurb.md") as fobj:
+            blurb = fobj.read().replace("\n", " ")
+
     # overwrite the original file
     with open(sys.argv[1], "w") as fobj:
-        fobj.write(contents)
+        fobj.write(
+            re.sub(
+                "description: (.*)",
+                f"description: {blurb}",
+                contents
+            )
+        )
