@@ -1,0 +1,7 @@
+# ignore intermediate products,
+# allowing this to be a scratch folder
+*.aux
+*.log
+*.md
+*.pdf
+__pycache__
