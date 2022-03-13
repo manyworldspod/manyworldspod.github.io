@@ -71,9 +71,9 @@ Some other notes:
 Before you share your zine publicly, you'll want to compare the output of the
 imposed version (`/assets/zines/<stub>.pdf`) to the raw version (`raw.pdf` in
 this directory). If something seems off, _e.g._ there are pages missing, it's
-likely because of a setting in `impose.tex`. If you open that file and go to
-[line 22](https://github.com/manyworldspod/manyworldspod.github.io/blob/main/_zines/impose.tex#L22)
-you will find it:
+likely because of a setting in `impose.tex`. You'll find it if you open that
+file and go to
+[line 22](https://github.com/manyworldspod/manyworldspod.github.io/blob/main/_zines/impose.tex#L22):
 
 ```tex
 \includepdf[pages=-,signature=28,landscape]{raw.pdf}
