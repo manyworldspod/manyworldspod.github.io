@@ -24,12 +24,12 @@ like. For example,
 
 
 ```markdown
-This is a sentence with some _emphatic ideas_ and some *bold claims*.
+This is a sentence with some _emphatic ideas_ and some **bold claims**.
 ```
 
 will be rendered as:
 
-> This is a sentence with some _emphatic ideas_ and some *bold claims*.
+> This is a sentence with some _emphatic ideas_ and some **bold claims**.
 
 Note, if your blurb is longer than a paragraph you will have to format it by
 hand with HTML tags.
