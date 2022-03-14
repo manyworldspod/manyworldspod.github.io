@@ -53,3 +53,13 @@ make restorative-justice-northeast-syria
 See the [zine docs](_zines/README.md) in that directory for more information.
 
 ## Contributing code
+
+**Note:** This section is written presuming you're familiar with the basics
+of `git`. If you want to contribute code but haven't used git before or would
+like a refresher, [this simple guide](https://rogerdudler.github.io/git-guide/)
+might help. You can also [reach out](mailto:many.worlds.pod@protonmail.com)
+any time for guidance, or check out the
+[issue tickets](https://github.com/manyworldspod/issues) if you're looking for
+a place to start. Even if you've never coded before but would like to learn,
+projects like this are a natural opportunity to do that. Truly, compa, we want
+your help! :heart::yellow_heart::green_heart:
