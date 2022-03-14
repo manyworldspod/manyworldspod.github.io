@@ -62,7 +62,7 @@
     \HRule \\[0.5cm]
     \includegraphics{../assets/img/banner.jpg} \\[0.6cm]
     {\Huge $title$} \\[0.2cm]
-    \HRule \\[3cm]
+    \HRule \\[4cm]
     \includegraphics{../assets/img/snail.jpg}
     \vfill
 \end{titlepage}
@@ -70,8 +70,13 @@
 % -- frontmatter
 \thispagestyle{empty}
 \setcounter{page}{2}
-\vspace*{6cm}
-\textsc{Where Many Worlds Fit} is a podcast about radical autonomy. It is
+\null
+\vfill
+\noindent\textsc{$title$} \\
+{\small by $for(author)$$author$$sep$ \and $endfor$} \\
+{\small published $postdate$} \\[4cm]
+
+\textit{Where Many Worlds Fit} is a podcast about radical autonomy. It is
 interested in lessons about education, restorative justice, prefiguration,
 ecology, organization, and many, many other things, through conversation
 with active libertarian movements around the world. Many of these movements
@@ -80,13 +85,18 @@ modern political philosophy, and support diverse, pluralistic societies of
 millions of people. They are worlds where many worlds fit.
 
 For more information, please visit \texttt{https://manyworldspod.github.io}.
+\vfill
 \clearpage
 
 % -- table of contents
 \thispagestyle{empty}
 \tableofcontents
 \clearpage
-\blankpage
+\checkoddpage
+\ifoddpage
+\else
+    \blankpage
+\fi
 
 % -- article contents
 $body$
@@ -98,9 +108,14 @@ $body$
     \blankpage
 \fi
 \thispagestyle{empty}
-\vspace*{6cm}
+\null
+\vfill
 \noindent\HRule \\[0.5cm]
 \textit{\large $description$} \\[0.3cm]
-\HRule
+\HRule \\[1cm]
+\begin{center}
+    \includegraphics{../assets/img/snail-emoji.png}
+\end{center}
+\vfill
 
 \end{document}
