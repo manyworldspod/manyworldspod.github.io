@@ -6,6 +6,12 @@ import sys
 # -- utilities ----------------------------------------------------------------
 
 
+def _preserve_publish_date(text):
+    """Ensure the publish date is recorded in metadata"""
+    date = re.findall("published (.*)", text)[0]
+    return re.sub("generator: (.*)", f"postdate: {date}", text)
+
+
 def remove_html_header_and_footer(text):
     """Remove vestiges of HTML header and footer from the given text"""
     header = re.compile(":::(.*)post\-date}", re.DOTALL)
@@ -34,7 +40,7 @@ def separate_figure_caption_footnotes(text):
 if __name__ == "__main__":
     # read Pandoc's original markdown
     with open(sys.argv[1], "r") as fobj:
-        contents = fobj.read()
+        contents = _preserve_publish_date(fobj.read())
 
     # strip out formatting that makes sense on the website, but not
     # in a printed zine, and account for footnotes within captions
@@ -56,7 +62,7 @@ if __name__ == "__main__":
         fobj.write(
             re.sub(
                 "description: (.*)",
-                f"description: {blurb}",
+                f"description: \"{blurb}\"",
                 contents
             )
         )

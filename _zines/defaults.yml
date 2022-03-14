@@ -1,2 +1,2 @@
 pdf-engine: pdflatex
-template: zine_template.tex
+template: template.tex
