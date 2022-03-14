@@ -36,6 +36,20 @@ For example, the first article can be found at
 
 ## Publishing zines
 
+After publication to the website, you can format your article as a PDF and
+impose it on A4 paper for printing as a zine. To do this, remember your stub
+and navigate to the `_zines` directory, then run
 
+```bash
+make <slug>
+```
+
+For example, to prepare the first article you can run
+
+```bash
+make restorative-justice-northeast-syria
+```
+
+See the [zine docs](_zines/README) in that directory for more information.
 
 ## Contributing code
