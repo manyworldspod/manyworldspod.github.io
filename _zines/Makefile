@@ -16,4 +16,5 @@
 
 clean:
 	# remove intermediate publishing products
-	- rm -rf __pycache__ *.{aux,log,md,pdf}
+	- find . -maxdepth 1 ! -name "README.md" -name "*.md" -delete
+	- rm -rf __pycache__ *.{aux,log,pdf}
