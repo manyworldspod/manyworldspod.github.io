@@ -7,6 +7,7 @@ tags: [rojava,restorative justice,jiniology,dual power,complementarity]
 image: jinwar.jpg
 image_caption_short: "Residents tending a garden in the women's village of Jinwar"
 image_caption: "Residents tending a garden in the women's village of Jinwar (source: <a href=\"https://www.youtube.com/watch?v=ig_Yo1iVM7U\">Jinwar - Free women's Village Rojava</a>)"
+zine: true
 ---
 
 ## Introduction

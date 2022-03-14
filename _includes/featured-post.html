@@ -1,7 +1,14 @@
 <article>
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.slug }}/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
+  <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.slug }}/{{ post.image }})"{% endif %}>
+    <h2>
+      <span><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></span>
+      <span>
+        {% if post.zine %}
+          <a href="{{ site.github.url }}/assets/zines/{{ post.slug }}.pdf" title="capture this article as a zine" target="_blank">
+            <i class="fa-solid fa-book"></i>
+          </a>
+        {% endif %}
+      </span>
+    </h2>
+  </div>
 </article>

@@ -12,8 +12,6 @@ menu:
     url:  'about'
   - name: 'episodes'
     url:  'episodes'
-  - name: 'zines'
-    url:  'zines'
   - name: 'rojava'
     url:  'rojava'
   - name: 'zapatistas'
