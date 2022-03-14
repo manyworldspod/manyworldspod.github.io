@@ -50,6 +50,6 @@ For example, to prepare the first article you can run
 make restorative-justice-northeast-syria
 ```
 
-See the [zine docs](_zines/README) in that directory for more information.
+See the [zine docs](_zines/README.md) in that directory for more information.
 
 ## Contributing code
