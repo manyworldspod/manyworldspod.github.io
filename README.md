@@ -39,7 +39,7 @@ https://manyworldspod.github.io/restorative-justice-northeast-syria).
 
 After publication to the website, you can format your article as a PDF and
 [impose](https://en.wikipedia.org/wiki/Imposition) it on A4 paper for printing
-as a zine. To do this, remember your stub and navigate to the `_zines`
+as a zine. To do this, remember your slug and navigate to the `_zines`
 directory, then run
 
 ```bash

@@ -36,25 +36,25 @@ hand with HTML tags.
 
 ## Render the imposed PDF
 
-Now you are ready to publish a zine! To do this you'll need your post's stub,
+Now you are ready to publish a zine! To do this you'll need your post's slug,
 the shortname it's filed under online. For example, the article published at
 https://manyworldspod.github.io/restorative-justice-northeast-syria has the
-stub `restorative-justice-northeast-syria`.
+slug `restorative-justice-northeast-syria`.
 
 On the command-line, navigate to this folder and run the following:
 
 ```bash
-make <stub>
+make <slug>
 ```
 
-where `<stub>` is the one corresponding to your article. To take the same
+where `<slug>` is the one corresponding to your article. To take the same
 example again, this would look like
 
 ```bash
 make restorative-justice-northeast-syria
 ```
 
-This will publish an imposed PDF of your zine under `/assets/zines/<stub>.pdf`,
+This will publish an imposed PDF of your zine under `/assets/zines/<slug>.pdf`,
 from the repository's top-level directory.
 
 Some other notes:
@@ -69,7 +69,7 @@ Some other notes:
 ### But wait!
 
 Before you share your zine publicly, you'll want to compare the output of the
-imposed version (`/assets/zines/<stub>.pdf`) to the raw version (`raw.pdf` in
+imposed version (`/assets/zines/<slug>.pdf`) to the raw version (`raw.pdf` in
 this directory). If something seems off, _e.g._ there are pages missing, it's
 likely because of a setting in `impose.tex`. You'll find it if you open that
 file and go to
