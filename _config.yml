@@ -7,13 +7,13 @@ paginate: 5
 markdown:    kramdown
 highlighter: rouge
 permalink:   /:title
-plugins:     [jekyll-paginate-v2, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:     [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # customise atom feed settings
 # (this is where Jekyll-Feed gets configuration information)
 title:       "Where Many Worlds Fit"
-author:      "nunya"
 description: "a podcast about radical autonomy"
+author:      "nunya"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
