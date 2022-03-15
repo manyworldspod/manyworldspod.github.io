@@ -38,7 +38,8 @@ pagination:
   previous_page: 'older'
 
 # customize post formatting
-byline_prefix: 'by'
+byline_prefix: 'filed by'
 post_date_prefix: 'published'
+last_modified_prefix: 'last modified'
 sharing_button_prompt: 'steal this page!'
 related_posts: 'related coverage'
