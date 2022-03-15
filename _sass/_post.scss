@@ -17,7 +17,7 @@ figcaption {
   text-align: justify;
   text-justify: inter-word;
 }
-.post-date, .share-prompt {
+.post-date:last-of-type, .share-prompt {
   margin-bottom: 1rem;
 }
 .featured-image img {
