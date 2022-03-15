@@ -7,6 +7,7 @@ title: Home
   {% include featured-post.html %}
 {% endfor %}
 
+{% if paginator.total_pages > 1 %}
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
@@ -20,3 +21,4 @@ title: Home
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
 </div>
+{% endif %}
