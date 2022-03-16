@@ -2,6 +2,7 @@
 layout: post
 title: Restorative Justice in Northeast Syria
 author: heval ashtabula
+date: 2022-03-09
 last_modified: 2022-03-11
 blurb: >-
   Imagine that, for one reason or another, state authorities retreated
@@ -14,7 +15,7 @@ images:
     alt: >-
       Residents tending a garden in the women's village of Jinwar
       (source: [Jinwar - Free women's Village Rojava](
-      href="https://www.youtube.com/watch?v=ig_Yo1iVM7U))
+      https://www.youtube.com/watch?v=ig_Yo1iVM7U))
     title: >-
       Residents tending a garden in the women's village of Jinwar
   - url: kurdistan.jpg

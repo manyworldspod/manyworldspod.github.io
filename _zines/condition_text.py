@@ -1,23 +1,32 @@
-import os
+import frontmatter
+import glob
 import re
 import sys
+
+BASEURL = "https://manyworldspod.github.io/assets/img/{}"
 
 
 # -- utilities ----------------------------------------------------------------
 
 
-def _preserve_publish_date(text):
-    """Ensure the publish date is recorded in metadata"""
-    date = re.findall("published (.*)", text)[0]
-    return re.sub("generator: (.*)", f"postdate: {date}", text)
+def _get_post_file(stub):
+    """Locate a post's markdown file from its stub"""
+    files = glob.glob(f"../_posts/*{stub}.md")
+    if not files:
+        raise FileNotFoundError(f"Could not locate file with stub {stub}")
+    elif len(files) > 1:
+        raise ValueError(f"Multiple files located with stub {stub}")
+    return files[0]
 
 
-def remove_html_header_and_footer(text):
-    """Remove vestiges of HTML header and footer from the given text"""
-    header = re.compile(":::(.*)post\-date}", re.DOTALL)
-    footer = re.compile("::: {\.post\-share}(.*):::", re.DOTALL)
-    beheaded = re.sub(header, "", text)
-    return re.sub(footer, "", beheaded)
+def capture_post_figures(text):
+    """Given the original post's markdown, capture its figures throughout"""
+    text = re.sub("\{\% assign(.+?)\%\}", "", text)
+    # replace {% include ... %} statements with markdown
+    for image in frontmatter.loads(text)["images"]:
+        md = f"![{image['alt']}]({BASEURL}/{image['url']})"
+        text = re.sub("\{\%(.+?)\%\}", md, text, count=1)
+    return text
 
 
 def separate_figure_caption_footnotes(text):
@@ -38,31 +47,19 @@ def separate_figure_caption_footnotes(text):
 
 
 if __name__ == "__main__":
-    # read Pandoc's original markdown
-    with open(sys.argv[1], "r") as fobj:
-        contents = _preserve_publish_date(fobj.read())
+    # read the post's original markdown
+    BASEURL = BASEURL.format(sys.argv[1])
+    with open(_get_post_file(sys.argv[1]), "r") as fobj:
+        contents = fobj.read()
 
     # strip out formatting that makes sense on the website, but not
     # in a printed zine, and account for footnotes within captions
     contents = separate_figure_caption_footnotes(
-        remove_html_header_and_footer(
-            contents
-            .replace(" \| Where Many Worlds Fit", "") \
-            .replace("----", "")
+        capture_post_figures(
+            contents.replace("\n\n---", "")
         )
     )
 
-    blurb = ""  # if a blurb is available, use it
-    if os.path.exists("blurb.md"):
-        with open("blurb.md") as fobj:
-            blurb = fobj.read().replace("\n", " ")
-
-    # overwrite the original file
-    with open(sys.argv[1], "w") as fobj:
-        fobj.write(
-            re.sub(
-                "description: (.*)",
-                f"description: \"{blurb}\"",
-                contents
-            )
-        )
+    # write the conditioned markdown
+    with open("source.md", "w") as fobj:
+        fobj.write(contents)
