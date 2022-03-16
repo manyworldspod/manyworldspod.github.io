@@ -1,0 +1,4 @@
+<figure>
+  <img src="{{ site.github.url }}/assets/img/{{ include.slug }}/{{ include.image.url }}" title="{{ include.image.title }}">
+  <figcaption>{{ include.image.alt | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+</figure>

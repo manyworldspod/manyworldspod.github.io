@@ -2,7 +2,7 @@
 
 \documentclass[12pt]{article}
 \usepackage{bigfoot,caption,graphicx,hyperref,ifoddpage}
-\usepackage[nodayofweek]{datetime}
+\usepackage[en-GB]{datetime2}
 \usepackage[a4paper,total={6in,9.5in}]{geometry}
 
 % -- fonts
@@ -74,7 +74,7 @@
 \vfill
 \noindent\textsc{$title$} \\
 {\small by $for(author)$$author$$sep$ \and $endfor$} \\
-{\small published $postdate$} \\[4cm]
+{\small published \DTMdate{$date$}} \\[4cm]
 
 \textit{Where Many Worlds Fit} is a podcast about radical autonomy. It is
 interested in lessons about education, restorative justice, prefiguration,
@@ -111,7 +111,7 @@ $body$
 \null
 \vfill
 \noindent\HRule \\[0.5cm]
-\textit{\large $description$} \\[0.3cm]
+\textit{\large $blurb$} \\[0.3cm]
 \HRule \\[1cm]
 \begin{center}
     \includegraphics{../assets/img/snail-emoji.png}
