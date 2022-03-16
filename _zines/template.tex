@@ -2,7 +2,7 @@
 
 \documentclass[12pt]{article}
 \usepackage{bigfoot,caption,graphicx,hyperref,ifoddpage}
-\usepackage[nodayofweek]{datetime}
+\usepackage[en-GB]{datetime2}
 \usepackage[a4paper,total={6in,9.5in}]{geometry}
 
 % -- fonts
@@ -74,7 +74,7 @@
 \vfill
 \noindent\textsc{$title$} \\
 {\small by $for(author)$$author$$sep$ \and $endfor$} \\
-{\small published $date$} \\[4cm]
+{\small published \DTMdate{$date$}} \\[4cm]
 
 \textit{Where Many Worlds Fit} is a podcast about radical autonomy. It is
 interested in lessons about education, restorative justice, prefiguration,
