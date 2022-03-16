@@ -12,6 +12,7 @@ following packages installed:
 
 * [PDFLaTeX](https://www.latex-project.org/get/)
 * [Pandoc](https://pandoc.org/installing.html)
+* [python-frontmatter](https://pypi.org/project/python-frontmatter/)
 
 You will also need a [Python](https://www.python.org/) interpreter, for our
 purposes any currently supported version will do.
